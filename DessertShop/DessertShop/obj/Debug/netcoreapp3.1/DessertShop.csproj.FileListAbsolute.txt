@@ -1,0 +1,366 @@
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.StaticWebAssets.xml
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.exe
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.deps.json
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.runtimeconfig.json
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.runtimeconfig.dev.json
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.pdb
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.Views.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\DessertShop.Views.pdb
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.csprojAssemblyReference.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.RazorAssemblyInfo.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.RazorAssemblyInfo.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.AssemblyInfoInputs.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.AssemblyInfo.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.TagHelpers.input.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.TagHelpers.output.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.RazorCoreGenerate.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Cake\AddCake.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Cake\Details.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Cake\EditCake.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Cake\Index.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddCategory.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\ManageUsers\Index.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\AddPie.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\EditPie.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Index.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CakeCard.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CategoryCard.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.RazorTargetAssemblyInfo.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.RazorTargetAssemblyInfo.cs
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.Views.pdb
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.csproj.CopyComplete
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\staticwebassets\DessertShop.StaticWebAssets.Manifest.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\staticwebassets\DessertShop.StaticWebAssets.xml
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.pdb
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\obj\Debug\netcoreapp3.1\DessertShop.genruntimeconfig.cache
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\mahmo\Documents\GitHub\DesertShop\DessertShop\DessertShop\bin\Debug\netcoreapp3.1\Moq.dll
+D:\New Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.StaticWebAssets.xml
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.exe
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.deps.json
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.runtimeconfig.json
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.runtimeconfig.dev.json
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.dll
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.pdb
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.Views.dll
+D:\New Project\bin\Debug\netcoreapp3.1\DessertShop.Views.pdb
+D:\New Project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Moq.dll
+D:\New Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\New Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\New Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\New Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.csprojAssemblyReference.cache
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.csproj.CoreCompileInputs.cache
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.MvcApplicationPartsAssemblyInfo.cs
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.MvcApplicationPartsAssemblyInfo.cache
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.RazorAssemblyInfo.cache
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.RazorAssemblyInfo.cs
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.AssemblyInfoInputs.cache
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.AssemblyInfo.cs
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.TagHelpers.input.cache
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.TagHelpers.output.cache
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.RazorCoreGenerate.cache
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Cake\AddCake.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Cake\Details.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Cake\EditCake.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Cake\Index.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddCategory.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\ManageUsers\Index.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Pie\AddPie.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Pie\EditPie.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Index.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CakeCard.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CategoryCard.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.RazorTargetAssemblyInfo.cache
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.RazorTargetAssemblyInfo.cs
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.Views.pdb
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.csproj.CopyComplete
+D:\New Project\obj\Debug\netcoreapp3.1\staticwebassets\DessertShop.StaticWebAssets.Manifest.cache
+D:\New Project\obj\Debug\netcoreapp3.1\staticwebassets\DessertShop.StaticWebAssets.xml
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.dll
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.pdb
+D:\New Project\obj\Debug\netcoreapp3.1\DessertShop.genruntimeconfig.cache
