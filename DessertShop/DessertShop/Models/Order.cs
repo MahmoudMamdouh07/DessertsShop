@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc.ModelBinding;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Identity;
+using System.Diagnostics.CodeAnalysis;
 
 namespace DessertShop.Models
 {
@@ -36,6 +37,7 @@ namespace DessertShop.Models
         public string AddressLine1 { get; set; }
 
         [Display(Name = "Address Line 2")]
+        [StringLength(100)]
         public string AddressLine2 { get; set; }
 
         [Required(ErrorMessage = "Please enter your zip code")]

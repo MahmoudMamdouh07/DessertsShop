@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Diagnostics.CodeAnalysis;
 
 namespace DessertShop.Models
 {
@@ -11,9 +12,9 @@ namespace DessertShop.Models
     {
         [Key]
         public Guid id { get; set; }
-
+        [StringLength(50)]
         public string name { get; set; }
-
+        [StringLength(5)]
         public decimal Price { get; set; }
     }
 }

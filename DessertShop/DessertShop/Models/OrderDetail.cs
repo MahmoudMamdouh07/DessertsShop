@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Diagnostics.CodeAnalysis;
 
 namespace DessertShop.Models
 {
@@ -21,6 +22,7 @@ namespace DessertShop.Models
         [ForeignKey(nameof(stockitemId))]
         public StockItem stockitem { get; set; }
         public int Amount { get; set; }
+        [StringLength(5)]
         public decimal Price { get; set; }
     }
 }
